@@ -24,7 +24,7 @@
 
 ---
 
-[Link to Wunderground](https://www.wunderground.com/weather/pl/rossosz/IROSSO39)  
+[Link to Wunderground](https://www.wunderground.com/dashboard/pws/IROSSO39)  
 [Link to Grafana](https://kropelki.grafana.net/public-dashboards/1ce815684d4542db8ec6f71ebee877ef)
 
 ![Grafana](https://github.com/user-attachments/assets/b66e0e99-4d94-418a-9f53-9bc4fed1d697)
