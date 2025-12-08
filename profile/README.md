@@ -22,7 +22,7 @@
 
 ---
 
-[![](https://img.shields.io/badge/Grafana%20Dashboard-F2F4F9.svg?style=for-the-badge)](https://kropelki.grafana.net/public-dashboards/1ce815684d4542db8ec6f71ebee877ef)
+[![](https://img.shields.io/badge/Grafana%20Dashboard-F2F4F9.svg?style=for-the-badge)](https://kropelki.grafana.net/public-dashboards/6ec2a43e7bde4de4a647211643fbc3ee)
 [![](https://img.shields.io/badge/IROSSO39|wunderground-F2F4F9.svg?style=for-the-badge)](https://www.wunderground.com/dashboard/pws/IROSSO39)
 
 </div>
