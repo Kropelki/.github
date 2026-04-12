@@ -19,19 +19,13 @@
 | `fastapi-tester` | ESP32 weather station testing server built with FastAPI | [/Kropelki/fastapi-tester](https://github.com/Kropelki/fastapi-tester) |
 | | | |
 
-![Diagram](./diagram.jpg)
-
----
-
 [![](https://img.shields.io/badge/Grafana%20Dashboard-F2F4F9.svg?style=for-the-badge)](https://kropelki.grafana.net/public-dashboards/6ec2a43e7bde4de4a647211643fbc3ee)
 [![](https://img.shields.io/badge/IROSSO39|wunderground-F2F4F9.svg?style=for-the-badge)](https://www.wunderground.com/dashboard/pws/IROSSO39)
 
 </div>
 
-![Grafana](https://github.com/user-attachments/assets/b66e0e99-4d94-418a-9f53-9bc4fed1d697)
 ![RAW_4082](https://github.com/user-attachments/assets/33a305ad-1be7-40d9-965b-1e44ef076cef)
-
----
+[![Grafana](https://github.com/user-attachments/assets/cd8690fd-a7ae-4ed8-8b1b-b04928fc2536)](https://kropelki.grafana.net/public-dashboards/6ec2a43e7bde4de4a647211643fbc3ee)
 
 > [!Note]
 > This project is currently under active development. Not all features are documented or included in source control yet, and many more are on the way! 😃
