@@ -24,8 +24,11 @@
 
 </div>
 
+<!--
 ![RAW_4082](https://github.com/user-attachments/assets/33a305ad-1be7-40d9-965b-1e44ef076cef)
+-->
 [![Grafana](https://github.com/user-attachments/assets/b26b6cdf-d77a-48d0-816e-6b789d764e90)](https://kropelki.grafana.net/public-dashboards/6ec2a43e7bde4de4a647211643fbc3ee)
+![Collage](https://github.com/user-attachments/assets/79e48369-fc04-4cf4-814a-6f38da7cb67e)
 
 > [!Note]
 > This project is currently under active development. Not all features are documented or included in source control yet, and many more are on the way! 😃
